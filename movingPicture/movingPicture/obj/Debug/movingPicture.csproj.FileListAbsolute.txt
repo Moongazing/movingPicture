@@ -1,0 +1,9 @@
+C:\Users\Moongazing\source\repos\movingPicture\movingPicture\bin\Debug\movingPicture.exe.config
+C:\Users\Moongazing\source\repos\movingPicture\movingPicture\bin\Debug\movingPicture.exe
+C:\Users\Moongazing\source\repos\movingPicture\movingPicture\bin\Debug\movingPicture.pdb
+C:\Users\Moongazing\source\repos\movingPicture\movingPicture\obj\Debug\movingPicture.Form1.resources
+C:\Users\Moongazing\source\repos\movingPicture\movingPicture\obj\Debug\movingPicture.Properties.Resources.resources
+C:\Users\Moongazing\source\repos\movingPicture\movingPicture\obj\Debug\movingPicture.csproj.GenerateResource.cache
+C:\Users\Moongazing\source\repos\movingPicture\movingPicture\obj\Debug\movingPicture.csproj.CoreCompileInputs.cache
+C:\Users\Moongazing\source\repos\movingPicture\movingPicture\obj\Debug\movingPicture.exe
+C:\Users\Moongazing\source\repos\movingPicture\movingPicture\obj\Debug\movingPicture.pdb
